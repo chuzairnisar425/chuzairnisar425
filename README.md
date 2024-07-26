@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chuzair542" target="blank"><img src="https://img.shields.io/twitter/follow/chuzair542?logo=twitter&style=for-the-badge" alt="chuzair542" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chuzairnisar425](https://github.com/chuzairnisar425)
 
